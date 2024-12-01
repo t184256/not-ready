@@ -1,0 +1,65 @@
+name: test
+
+on:
+  pull_request:
+  push:
+
+jobs:
+  everything:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@main
+        with:
+          fetch-depth: 0
+      - uses: DeterminateSystems/nix-installer-action@main
+      - uses: DeterminateSystems/magic-nix-cache-action@main
+      - name: Configure swap
+        uses: pierotofy/set-swap-space@master
+        with:
+          swap-size-gb: 4
+      - run: nix build
+      - run: nix develop -c sh -c 'make -f maint/Makefile -j2 outputs'
+      - name: Compare some of the files
+        if: startsWith(github.ref, 'refs/tags/')
+        run: |
+          mkdir _nix _develop
+          cp -- result/.version result/*.fb2 result/*.txt _nix/
+          cp -- .version *.fb2 *.txt _develop/
+          diff -qr _nix/ _develop/
+      - run: nix develop -c sh -c 'make -f maint/Makefile -j1 all check'
+      - run: nix flake check
+      - uses: actions/upload-artifact@v4
+        with:
+          name: not-ready
+          if-no-files-found: error
+          path: |
+            not-ready.en.pdf
+            not-ready.ru.pdf
+            not-ready.en-ru.interleaved.pdf
+            not-ready.en.epub
+            not-ready.ru.epub
+            not-ready.en.fb2
+            not-ready.ru.fb2
+            not-ready.en.80column.txt
+            not-ready.ru.80column.txt
+            not-ready.en.freeflow.txt
+            not-ready.ru.freeflow.txt
+      - name: Release
+        uses: softprops/action-gh-release@v2
+        if: startsWith(github.ref, 'refs/tags/')
+        with:
+          draft: true
+          fail_on_unmatched_files: true
+          files: |
+            result/not-ready.en.pdf
+            result/not-ready.ru.pdf
+            result/not-ready.en-ru.interleaved.pdf
+            result/not-ready.en.epub
+            result/not-ready.ru.epub
+            result/not-ready.en.fb2
+            result/not-ready.ru.fb2
+            result/not-ready.en.80column.txt
+            result/not-ready.ru.80column.txt
+            result/not-ready.en.freeflow.txt
+            result/not-ready.ru.freeflow.txt
+          token: ${{ secrets.RELEASE_TOKEN }}

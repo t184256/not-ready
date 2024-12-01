@@ -1,0 +1,115 @@
+{"keep":1,"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\Q\\newpage\\E$"}
+{"keep":1,"rule":"EN_GB_SIMPLE_REPLACE","sentence":"^\\QHe approached Grip, looked him in the eye and stated: \"Shot you up with some garbage, eh.\\E$"}
+{"keep":1,"rule":"TOO_LONG_SENTENCE","sentence":"^\\QI was up the wall by the time, but I really couldn't think of anything better, so I just wrote him, right at dawn, that I'm sad about you and everything, but a mission is a mission, we have an appointment, and I'm going no matter what.\"\\E$"}
+{"keep":1,"rule":"EN_REPEATEDWORDS","sentence":"^\\Q\"That's interesting.\\E$"}
+{"keep":1,"rule":"RUDE_SARCASTIC","sentence":"^\\Q\"Oh, here we go again,\" Adam Ashotovich complained quietly.\\E$"}
+{"keep":1,"rule":"EN_REPEATEDWORDS","sentence":"^\\Q\"Maybe sometimes it's more important to be interesting?\\E$"}
+{"keep":1,"rule":"RUDE_SARCASTIC","sentence":"^\\Q\"Oh, here we go again,\" Aksat Dzhonatanovich turned to Grip himself.\\E$"}
+{"keep":1,"rule":"CAUSE_BECAUSE","sentence":"^\\QCause I don't have a--\" \"Why, off-peak, we can accompany you there... that'd be easier.\\E$"}
+{"keep":1,"rule":"TOO_LONG_SENTENCE","sentence":"^\\QWe stayed back to make more of them, and I really think that if we help them with that, they will all begin to trust us, and it'll be safer for them, and they'll want to continue this contact, because we've helped them.\"\\E$"}
+{"keep":1,"rule":"TOO_LONG_SENTENCE","sentence":"^\\Q\"--and it'll all take a lot of time, and they're afraid of our mechanisms-- they lead very simple lives, and they're bothered by complex things --and they'll have to get used to the new people, so it's best if it's me, Thalia and Maria, starting with Newt, and then we'll see.*\"\\E$"}
+{"keep":1,"rule":"A_INFINITIVE","sentence":"^\\QWhen she called you a dissociate--\" \"I always knew I'm not fit for this...\\E$"}
+{"rule":"POSSESSIVE_APOSTROPHE","sentence":"^\\QThe last time Grip saw the head of the planet was the centennial solidarity of the workers demonstration.\\E$"}
+{"rule":"MISSING_COMMA_AFTER_INTRODUCTORY_PHRASE","sentence":"^\\QOf course you can't.\\E$"}
+{"rule":"EN_GB_SIMPLE_REPLACE","sentence":"^\\Q\"Shot you up with some garbage, eh.\\E$"}
+{"rule":"KIND_OF_A","sentence":"^\\Q\"What kind of a kid is that--"}
+{"rule":"KIND_OF_A","sentence":"^\\Q\"What kind of a kid is that--\" (Dmitro Ivanovich unblocked the way and put his hand on Grip's shoulder...) \"--who's not even here yet--\" (... softly opened the door and pushed Grip inside ...) \"--but has already ordered two shots...\"\\E$"}
+{"rule":"KIND_OF_A","sentence":"^\\Q\"What kind of a kid is that--\" (Dmytro Ivanovich unblocked the way and put his hand on Grip's shoulder...) \"--who's not even here yet--\" (... softly opened the door and pushed Grip inside ...) \"--but has already ordered two shots...\"\\E$"}
+{"rule":"PCT_SINGULAR_NOUN_PLURAL_VERB_AGREEMENT","sentence":"^\\QNow, the Fist are cunning bunch, they'll capitalize on anything they can lay their hands on, lizards included.\\E$"}
+{"rule":"CAUSE_BECAUSE","sentence":"^\\Q\"Attaboy. The mission itself ain't secret, cause it's a joint one,"}
+{"rule":"CAN_WHAT","sentence":"^\\Q\"We can what?\"\\E$"}
+{"rule":"EN_DIACRITICS_REPLACE","sentence":"^\\Q\"They don't believe in the common good,\" Grip remembered the official cliche.\\E$"}
+{"rule":"ONE_ONCE","sentence":"^\\QOne I can send, so that you know it's time to save me?\"\\E$"}
+{"rule":"APARTMENT-FLAT","sentence":"^\\QThis time they went to an almost normal apartment block.\\E$"}
+{"rule":"FIRST_OF_ALL","sentence":"^\\Q\"First of all, it's valenok, the stress falls on the first syllable.\\E$"}
+{"rule":"COMMA_COMPOUND_SENTENCE_2","sentence":"^\\QThalia made a beeline to the exit, Grip followed her: \"And why are you so sure everything will be wonderful?\"\\E$"}
+{"rule":"OUTTA","sentence":"Outta your mind?"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QAnd we should probably show the new signs to Irakli.\"\\E$"}
+{"rule":"FIRST_OF_ALL","sentence":"^\\Q\"Let's set it straight,\" \"First of all, don't you dare say that to them!\\E$"}
+{"rule":"SINGULAR_VERB_AFTER_THESE_OR_THOSE","sentence":"^\\Qwhen the link between these two has clicked for him.\\E$"}
+{"rule":"QUESTION_MARK","sentence":"^\\QDon't you dare roll down again, you naughty pencil.\\E$"}
+{"rule":"COLLECTIVE_NOUN_VERB_AGREEMENT_VBP","sentence":"^\\QIrakli Kosmovich has somehow digressed from polynomials and onto Picts and other Celts factoring some things and distributing others, eventually leaving Welsh in a messy state --- an impromptu lecture that Grip was about a decade of studies short from understanding in full, yet he found it enjoyable in an abstract way.\\E$"}
+{"rule":"IN_A_X_MANNER","sentence":"^\\QIrakli Kosmovich has somehow digressed from polynomials and onto Picts and other Celts factoring some things and distributing others, eventually leaving Welsh in a messy state --- an impromptu lecture that Grip was about a decade of studies short from understanding in full, yet he found it enjoyable in an abstract way.\\E$"}
+{"rule":"GOTTA","sentence":"^\\QThey gotta live somewhere...\\E$"}
+{"rule":"NOT_SURE_IT_WORKS","sentence":"^\\QAnd I'm not sure I'd catch it without Newt.\\E$"}
+{"rule":"OUTSIDE_OF","sentence":"^\\QSaid desire has been expressed unequivocally, unambiguously and uncompromisingly, leaving no possibility to continue the diplomatic relationship outside of satisfying the request.\\E$"}
+{"rule":"CAUSE_BECAUSE","sentence":"^\\Q\"While we're packing... we need to agree on what to tell him, cause I guess--\" Grip began as she glanced at him and headed out.\\E$"}
+{"rule":"FIRST_OF_ALL","sentence":"^\\Q\"First of all, this.\\E$"}
+{"rule":"A_RB_NN","sentence":"^\\QThalia moved closer to Grip, almost forming a shoulder-to-shoulder escape route for Newt.\\E$"}
+{"rule":"APARTMENT-FLAT","sentence":"^\\Q\"Thalia, apartments!\"\\E$"}
+{"rule":"THE_US","sentence":"^\\QWe're finally not alone in the universe, we're supposedly the smarter, advanced ones, and I want them to cut all the us versus them silliness,\" Grip switched languages for expressiveness.\\E$"}
+{"rule":"BE_WILL","sentence":"^\\Q\"Something our powers that be would love to hear about.\\E$"}
+{"rule":"WHOS","sentence":"^\\QDmytro Ivanovich didn't go into who's looking for whom.\\E$"}
+{"rule":"PRP_VB","sentence":"^\\Q\"We haven't--\" Thalia squeaked.\\E$"}
+{"rule":"GOTTA","sentence":"^\\Q\"Mix it with food, you gotta to mix it with food, otherwise it's bland as ice,\" Thalia hopped off the couch as everyone set into motion.\\E$"}
+{"rule":"EN_GB_SIMPLE_REPLACE","sentence":"^\\QBut after the nod of curiosity from Derevyashko, Grip named neither the book nor the movie, but rather curled his right hand in to point himself in the chest, highlighting the closest available exception to the rule.\\E$"}
+{"rule":"CAUSE_BECAUSE","sentence":"^\\QLet's see, the last time we've already revealed we know your secret, even though I don't know why make it a secret--\" \"--cause they didn't make a secret out of it, they just thought we're the same.\\E$"}
+{"rule":"NOT_US1","sentence":"^\\QBut we don't fly--\" \"--fly, but it's not us, so--\" \"--mean 'not us', it's us, just different us.\\E$"}
+{"rule":"A_MY","sentence":"^\\QWe actually think it's a horrible idea, so horrible, that we had a bit of a falling out with the ours, leading to all of us leave and some of stay, so--\" \"OK, OK, I got it.\\E$"}
+{"rule":"A_MY","sentence":"^\\QWe actually think it's a horrible idea, so horrible, that we had a bit of a falling out with the ours, leading to all of us leave and some of us stay, so--\" \"OK, OK, I got it.\\E$"}
+{"rule":"QUESTION_MARK","sentence":"^\\QLike me.\\E$"}
+{"rule":"LEMME","sentence":"^\\Q\"Oh lemme guess, and now he'll never be,\" Thalia mocked him.\\E$"}
+{"rule":"ER","sentence":"^\\QWould you?... er, miss it?\\E$"}
+{"rule":"GIMME","sentence":"^\\QThe pledge you gave to defend the Federation from-- gimme a second.\"\\E$"}
+{"rule":"Y_ALL","sentence":"^\\Q\"I've gathered y'all here today--\" Derevyashko began loudly.\\E$"}
+{"rule":"FIRST_OF_ALL","sentence":"^\\QSo, first of all.\\E$"}
+{"rule":"A_INFINITIVE","sentence":"^\\QWhen she called you a dissociate--\"\\E$"}
+{"rule":"DT_PRP","sentence":"^\\QI'm talking to the you who stays!\\E$"}
+{"rule":"EXTREME_ADJECTIVES","sentence":"^\\Q\"I'm sorry, that's super interesting, but I've got one important thing to do.\"\\E$"}
+{"rule":"POSSESSIVE_APOSTROPHE","sentence":"^\\QShe burst into laughter, interrupting the hovers discussion: \"That's-- that's probably for the better that you got no reply-- because that'd be--\" \"Wait,\" his face dropped.\\E$"}
+{"rule":"MI","sentence":"^\\Q\"You mi--\" Aksat Dzhonatanovich began.\\E$"}
+{"rule":"HE_VERB_AGR","sentence":"^\\Q\"Somebody explain me one thing,\" Irakli Kosmovich continued.\\E$"}
+{"rule":"CAUSE_BECAUSE","sentence":"^\\QCause I don't have a--\"\\E$"}
+{"rule":"THE_PUNCT","sentence":"^\\QHe was weighing what does he want more: somehow translating and asking \"would you mind sharing the, without a doubt, one breathtaking story of how did you two managed to meet each other\" or living to see another day.\\E$"}
+{"rule":"IT_IS_NO","sentence":"^\\Q\"Please accept my apologies, it was no further than several hours ago that I was neck deep in my work, and I haven't completely adjusted back yet.\"\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QI... time and time again I saw Newt risk his safety to understand us better.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QI think that could be called trust?\"\\E$"}
+{"rule":"ADJECTIVE_IN_ATTRIBUTE","sentence":"^\\QSmaller in size.\\E$"}
+{"rule":"QUESTION_MARK","sentence":"^\\QCouldn't you clarify the nature of such distrust--\" Grip rolled up his eyes.\\E$"}
+{"rule":"GOTTA","sentence":"^\\Q\"Guess I gotta go then?\\E$"}
+{"rule":"WERE_VBB","sentence":"^\\QI mean, were I taller, you'd shoot me on sight?...\\E$"}
+{"rule":"EN_GB_SIMPLE_REPLACE","sentence":"^\\QHe opened the notebook again and raised the eraser.\\E$"}
+{"rule":"EN_GB_SIMPLE_REPLACE","sentence":"^\\QHe smudged the eraser against the word that did indeed look like \"Sokolovskiy\", or at least, started with an \"S\" and featured a \"y\".\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\Q\"Ollie ollie oxen free.\"\\E$"}
+{"rule":"A_MY","sentence":"^\\QProbably not one of those his boss was so impressed with.\\E$"}
+{"rule":"THERE_IS_A_LOT_OF","sentence":"^\\QThere's not a lot of words, and they connect with--\"\\E$"}
+{"rule":"EN_REPEATEDWORDS","sentence":"^\\QBut every time I need just one, it's always 'why me?'...\\E$"}
+{"rule":"PUNCTUATION_PARAGRAPH_END","sentence":"^\\QIt was weird to regurgitate phrases like\\E$"}
+{"rule":"CAUSE_BECAUSE","sentence":"^\\QThe mission itself ain't secret, cause it's a joint one, but what exactly happens there still is.\\E$"}
+{"rule":"PUNCTUATION_PARAGRAPH_END","sentence":"^\\QOnly then he reached out slowly to his scribbles, erased them carefully and started drawing the very same\\E$"}
+{"rule":"PUNCTUATION_PARAGRAPH_END","sentence":"^\\QThe lizard retreated, followed the finger, and, for a rather uncomfortable minute, kept staring at the\\E$"}
+{"rule":"AFTERWARDS_US","sentence":"^\\QSo, please, when you send something urgent, drop me a message shortly afterwards.\\E$"}
+{"rule":"PUNCTUATION_PARAGRAPH_END","sentence":"^\\QAnd it was during that double\\E$"}
+{"rule":"AGGRESSIVE","sentence":"^\\Q\"Three is already as aggressive as it gets, and one really shouldn't go lower than that.\"\\E$"}
+{"rule":"IN_A_X_MANNER","sentence":"^\\QThalia and Maria were in sorrow over a grotesque colourful blob on the screen, drifting and slowly morphing in a trippy manner.\\E$"}
+{"rule":"IN_A_X_MANNER","sentence":"^\\QThey now cohabited his head, all at once, in a newfound manner that didn't lend itself to thinking about just a single thing at once.\\E$"}
+{"rule":"AFTERWARDS_US","sentence":"^\\QWe didn't talk for long, and you left shortly afterwards.\\E$"}
+{"rule":"PROFANITY","sentence":"^\\QShit wasn't pretty, scared Thalia away in a split second.\\E$"}
+{"rule":"PROFANITY","sentence":"^\\Q\"Shit ain't fit for killing people.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QThen I let Newt out, he rejoiced for a long while, said he understood nothing, but it was very interesting, that he wanted to see everything but saw almost nothing, that he can't see great at all, but it was still interesting, that we really showed him the living place we sleep in, that you didn't sleep, then you did, even though the sun was down, and then you left, then adults came in, and he was quiet, so that they don't recognize him...\\E$"}
+{"rule":"EN_REPEATEDWORDS","sentence":"^\\QSuggested effect under immune suppression (simulated): neural inhibition (M.\\E$"}
+{"rule":"EN_REPEATEDWORDS","sentence":"^\\Q\"How is that a problem,\" Grip mumbled absentmindedly.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QDue to this, I've started to plan out the details of excursion and discuss it with my colleague Helga Voronov, as she was a more experienced agent, and I wanted to ensure the maximum possible safety for all the parties involved.\\E$"}
+{"rule":"PUNCTUATION_PARAGRAPH_END","sentence":"^\\QIt was unlikely he could even see the\\E$"}
+{"rule":"EN_REPEATEDWORDS","sentence":"^\\QI need my sleep as much as everybody does.\\E$"}
+{"rule":"MAGAZINE","sentence":"^\\QLora handed over some bright magazine.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QThe very idea of walking around the base in school uniform made him sweat, and they haven't yet reached the page where he put on a spacesuit on top of it to walk to the middle of the desert to chat with lizards.\\E$"}
+{"rule":"EN_REPEATEDWORDS","sentence":"^\\QMaybe the comic writers could draw me an extra one.\\E$"}
+{"rule":"ACCURATE","sentence":"^\\Q\"I think that's... a more accurate assessment,\" there still were new words left in the corners of his mind.\\E$"}
+{"rule":"EN_REPEATEDWORDS","sentence":"^\\QMaybe I underestimate her manipulation skills, but I think it was equal, me and her.\\E$"}
+{"rule":"OFFICER","sentence":"^\\QAlmost all transmissions, batched and unbatched, all the queues, they normally need the communications officer's approval anyway.\\E$"}
+{"rule":"OFFICER","sentence":"^\\QYour communications officer.\\E$"}
+{"rule":"OFFICER","sentence":"^\\QGrip stopped to put the cup back and to watch how the cool (counter?)intelligence officers pick pizza: they grab boxes from almost the very bottom of the stack.\\E$"}
+{"rule":"OFFICER","sentence":"^\\QAs they were approaching the exit, the intelligence officers covered themselves from the rain with pizza boxes, while Marek produced a phone that discussed the news loudly: \"--for a long time.\\E$"}
+{"rule":"EN_REPEATEDWORDS","sentence":"^\\QSounds... interesting, at the very least.\\E$"}
+{"rule":"POLICE","sentence":"^\\QAnd Fists have police, so they also have people that can harm each other.\\E$"}
+{"rule":"POLICE","sentence":"^\\QPolice protects people from exactly that: crimes committed by other individuals.\\E$"}
+{"rule":"A_BIT","sentence":"^\\QA staggering two hundred milligrams poorer, Grip sat at the flimsy table and bit into his burger.\\E$"}
+{"rule":"THERE_IS_A_LOT_OF","sentence":"^\\QThere's not a lot of words, and they connect with--\" \"No-no-no, don't even think about it.\\E$"}
+{"rule":"EN_REPEATEDWORDS","sentence":"^\\QA few problems later, he joined them as well.\\E$"}
+{"rule":"EN_REPEATEDWORDS","sentence":"^\\QIrakli Kosmovich dug the phone out of the paper piles, explained what do the cutesy small digits mean, and they ran through the problems he already had at hand.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QThe chamber has been placed in my room and hasn't left it until the next evening, when my colleague and my immediate superior have transported it back to the dome, an activity I could not partake in due to a recent incident in the living quarters leading to my demise.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QAfter ensuring that the ambassador is content with the trip, I've helped transport the chamber back to the base together with its original inhabitant, and handed it over to our biologist Maria, where scanning has revealed the fact of the infiltration I'm describing in this report.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QBy the time they got to the only panel where he wrote in the sand with his right hand, and kept Thalia away from the discussion with his left hand, Grip gave up on articulating his complaints and just groaned with disappointment.\\E$"}
+{"rule":"EN_REPEATEDWORDS","sentence":"^\\Q\"Maybe we will, we just won't--\" Grip stated, distracted by the commotion in the middle of the hallway.\\E$"}
+{"rule":"PUNCTUATION_PARAGRAPH_END","sentence":"^\\QAfter the softest, smoothest walk of Grip's entire life, Newt was held in front of the air tube for more dignified\\E$"}

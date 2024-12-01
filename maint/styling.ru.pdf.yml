@@ -1,0 +1,42 @@
+# include-before:
+  - \lefthyphenmin=5
+  - \righthyphenmin=3
+  - \newpage
+documentclass: book
+geometry:  # kindle-friendly
+  - paperwidth=3.6in
+  - paperheight=4.8in
+  - hmargin=0.1in
+  - vmargin=0.1in
+mainfont: Noto Serif ExtraCondensed
+babel-lang: russian
+toc: true
+toc-title: Не готовы
+microtypeoptions: factor=0
+csquotes: true
+header-includes: |
+  \usepackage{calc}
+  \usepackage{tocloft}
+  \usepackage[hang,flushmargin]{footmisc}
+  \renewcommand{\cftdotsep}{1}
+  \renewcommand{\cftchapdotsep}{\cftdotsep}
+  \renewcommand{\cftchapfont}{\normalfont}
+  \renewcommand{\cftchappagefont}{\normalfont}
+  \renewcommand{\cftchapafterpnum}{\vskip-.5em}
+  \renewcommand{\cftsecafterpnum}{\vskip-.5em}
+  \usepackage{sectsty}
+  \chapterfont{\LARGE}
+  \setlength{\leftmargini}{0.1in}
+  \newlength{\speechindent}
+  \settowidth{\speechindent}{---\thinspace}
+  \newfontfamily\thin{Noto Serif ExtraCondensed Thin}
+  \newcommand{\nobrk}[1]{\linepenalty=10000 #1}
+  \newcommand{\nohyp}[1]{\righthyphenmin 62 #1}
+  \newcommand{\gluepar}{\vspace{-\parskip}}
+  \newcommand{\speechpar}{\hangindent=\speechindent}
+  \newcommand{\lizardsign}[1]{\mbox{{\thin[}\nohyp{#1}{\thin]}}}
+  \newcommand{\lizardsep}{{\thin|}}
+  \newcommand{\lizardcolumn}[1]{#1}
+  \newcommand{\lizardmissing}[1]{{\color{red}\lizardsign{#1}}}
+  \setlength{\emergencystretch}{.10\hsize}
+...

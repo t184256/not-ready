@@ -1,0 +1,103 @@
+# every word can be questioned with an -? on top
+
+# universal backreference
+aforementioned:
+  [aforementioned, aforementioned', aforementioned-of, do-aforementioned]
+
+# pronouns
+I: [I, I', I-of, I-in, be-I, be-I-not]
+we: [we, we', we-of, we-of-not, we-in, we-in-not]
+ours: [ours, ours-of, ours-in, ours']
+you: [you, you', you-of]
+yous: [yous, yous', yous-of]
+yours: [yours, yours-of, yours']
+
+# body parts
+head: [head', head-in]
+tail: [tail, tail', tails, be-tails]
+leg: [legs]
+brain: [brain]
+
+# world
+living place: [living place, living place-in, living place-of, living place']
+sun: [sun-of, sun', sun-in, be-sun, be-sun', be-sun-not]
+sky: [sky, sky-of, sky-in, sky']
+food: [food, food']
+juice: [juice, juice', be-juice, "?#2?", "?#2?'", "?#2?-in", "be-?#2?"]
+animal: [animal, animal', animal-of, animal-in, animals, animals', animals-of, be-animal, be-animal-of]
+
+# knowledge
+sign: [sign', signs, signs', signs-of, be-sign-not]
+sound: [sound, sounds, sounds']
+angle: [angles']
+purpose: [purpose, purpose', purpose-of, purpose-of-not', be-purpose, be-purpose-not, be-purpose-er]
+
+# abstract
+object: [object, object', object-of, object-in, objects, objects', be-object-not]
+category: [category', categories']
+scheme: [schemes', be-scheme-not, "?#1?", "?#1?'", "?#1?-of", "?#1?s'", "be-?#1?"]
+choice: [choice']
+nature: [nature]
+substance: [substance, substance', be-substance, be-substance-not]
+differ: [be-different, be-different-not, be-different']
+"true": ["true", true-not]
+
+# psychosocietal
+tradition: [tradition-of, tradition-of-not']
+interest: [interest', interesting', be-interesting-er]
+proper: [properness, properness', be-proper, be-proper-not, be-proper', be-proper-er, be-proper-of']
+danger: [danger, danger', be-danger, be-danger-not, be-danger-er, be-danger-er-not]
+conundrum: ["?#5?", "?#5?'", "be-?#5?"]
+
+# possibly modal verbs (no be)
+exist: [exist, exist', do-exist, exist-not, exist-not', do-exist-not]
+go: [go, do-go, go', go-not, do-go-not]
+hold: [hold, do-hold, hold', hold-not]
+see: [see, do-see, see', see-not]
+show: [show, show-not, do-show, show', do-show-not]
+explain: [explain, do-explain, explain']
+think: [think, do-think, be-think]
+know: [know, do-know, know-not, know']
+want: [want, want-not, be-want]
+can: [can, can-not]
+help: [help, help']
+understand: [understand, understand-not]
+
+# actions (no transitions)
+sleep: [sleep, sleep-not, sleep-of]
+eat: [eat, eat', do-eat-not]
+wait: [do-wait]
+break: [break, break', be-broken, "?#4?"]
+rejoice: [rejoicing, rejoice, rejoice-not']
+
+# adjectives/adverbs
+together: [be-together, be-together-not]
+new: [be-new, be-news, be-new', be-new-of, be-new-not, be-news-not, be-news-not', be-new-not']
+old: [be-old, be-olds, be-olds', be-old-er, be-olds-of, be-old', be-old-not]
+wise: [be-wise, be-wise-not, be-wise-er, be-wise', be-wise-of, be-wise-of']
+small: [be-small, be-small-er]
+large: [be-large]
+strong: [be-strong, be-strong-not, be-strong-of']
+hot: [be-hot, be-hot-not]
+tired: [be-tired]
+open: [be-open, be-open-not]
+complex: [be-complex, be-complex-not]
+smooth: ["?#3?'", "be-?#3?", "be-?#3?-not"]
+
+# counting
+many: [be-many, be-many-not, be-many-er, be-many-er']
+few: [be-less-er, be-less-er']
+one: [one, be-one, be-first]
+two: [two, two', be-two, be-second, be-second']
+nine: [nine]
+eleven: [eleven, be-eleven, be-eleventh]
+
+# directions
+here: [here', here-in]
+down: [down, down', down-in]
+up: [up, up', up-in]
+inside: [inside, inside', inside-in]
+outside: [outside', outside-in]
+
+# weirdness
+ELLIPSIS: [..., be-..., you-..., ...-not, ...']
