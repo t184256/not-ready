@@ -48,7 +48,7 @@
         ];
         pdf = pkgs.stdenv.mkDerivation rec {
           name = "not-ready-${bookVersion}";
-          bookVersion = "1.0.0";  # scraped
+          bookVersion = "1.0.1";  # scraped
           src = ./.;
           nativeBuildInputs = deps;
           phases = [ "unpackPhase" "patchPhase" "buildPhase" ];
