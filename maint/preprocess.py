@@ -241,4 +241,4 @@ for fname in args.process:
     s = s.replace('\n@', '\n')
     s = s.replace('@', '')
 
-    print(s + ('\n\n' if args.format == 'epub' else ''))
+    print(s + ('\n\n' if args.format in ('epub', 'fb2') else ''))
