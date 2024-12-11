@@ -106,7 +106,7 @@ After shifting around, Derevyashko started reading:
   Derevyashko didn't mask his slight disappointment.
 "*It's late. When we come back,*"
   Grip answered in short bursts, deep in his thoughts.
- "*We set out at dawn. And then it's late night.*"
+ "*We set out at dusk. And then it's late night.*"
 "*And now you'll have to deal with the consequences,*"
  Derevyashko stated matter-of-factly.
 "*And how am I supposed to?... Deal?...*"
@@ -123,7 +123,7 @@ After shifting around, Derevyashko started reading:
 "*For how long? What's the time, by the way?*"
 "*Almost an hour ago,*" Derevyashko consulted his shiny watch.
  "*Told me that death is death,
-   but she's got a diplomatic mission to run at dawn.
+   but she's got a diplomatic mission to run at dusk.
    Should we bring her back?*"
 Grip shook his head, a move he didn't think through in advance.
 
@@ -723,7 +723,7 @@ Grip nodded back, Thalia relaxed a bit.
   then told me the poison was bad;
   no motive, no means, same as everyone else, I guess.
   I was up the wall by the time, but I really couldn't think of anything better,
-  so I just wrote him, right at dawn,
+  so I just wrote him, right before sunset,
   that I'm sad about you and everything, but a mission is a mission,
   we have an appointment, and I'm going no matter what.*"
 "*Thank you very much,*" Grip nodded. "*For... not contriving anything else.*"

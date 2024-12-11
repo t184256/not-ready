@@ -167,7 +167,7 @@ but decided to make Thalia happier and left a request at the very end:
 
 Next he visited Maria.
 "... most importantly, this one comes from really hot Faina mountain springs,
- so, at least at dawn, we don't have to bother with cooling at all.
+ so, at least after sunset, we don't have to bother with cooling at all.
  Just give it food and oxygen--"
 "I get it. That's nice, really. Why. Is it. So. Ugly?"
 "You only think so, because your brain is wired to stay away from carnivores.

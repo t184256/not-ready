@@ -507,7 +507,7 @@ Grip groaned quietly.
 "You are writing that report, aren't you?" he asked Grip.
 "I am," Grip nodded.
 "Send it to me as is right now. And start writing a new one."
-"He can't. It's almost dawn," Thalia stated matter-of-factly.
+"He can't. It's almost sunset," Thalia stated matter-of-factly.
 Grip obliged, hit "Send", heard Dmytro Ivanovich's phone tick.
 "We need to go," she insisted.
 
