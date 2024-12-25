@@ -27,6 +27,10 @@ A novelized tabletop roleplaying game transcript?
 
 Check it out yourself for free: [en.pdf], [ru.pdf].
 
+## Shared universe
+
+There are also short stories set in the same universe: [In Maxine's Way].
+
 ## Q&A
 
 ### I don't like your PDFs, where are the other formats?
@@ -59,6 +63,7 @@ I'd love to hear it!
 Try [GitHub Discussions] or any other way to reach [me].
   
 [writing fiction]: https://monk.unboiled.info/writing
+[In Maxine's Way]: https://monk.unboiled.info/writing/in-maxines-way
 [en.pdf]: https://github.com/t184256/not-ready/releases/latest/download/not-ready.en.pdf
 [ru.pdf]: https://github.com/t184256/not-ready/releases/latest/download/not-ready.ru.pdf
 [en.epub]: https://github.com/t184256/not-ready/releases/latest/download/not-ready.en.epub
